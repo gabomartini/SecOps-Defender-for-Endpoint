@@ -4,11 +4,11 @@
 </p>
 
 #### *In this tutorial we will:*
-*- Gain hands-on experience in configuring and managing Microsoft Defender for Endpoint.*
+*•	Gain hands-on experience in setting up and managing Microsoft Defender for Endpoint.*
 
-*- Develop security operations skills, including threat detection and incident response.*
+*•	Develop security operations skills, including threat detection and incident response.*
 
-*- Learn how to onboard devices, configure security policies, and analyze security incidents.*
+*•	Onboard devices, configure security policies, and analyze security incidents.*
 
 #### Tasks:
 1.  Set up and configure Microsoft Defender for Endpoint.
